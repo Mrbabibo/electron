@@ -1,6 +1,6 @@
 # eletexet
 
-> this 3
+> vue 项目用 electron 可打包成客户端
 
 ## Build Setup
 
