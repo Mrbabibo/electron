@@ -5,7 +5,7 @@
       <transition name="fade" mode="out-in">
             <router-view class="view"></router-view>
         </transition>
-  
+    
   </div>
 </template>
 
@@ -59,8 +59,7 @@ export default {
     @media screen and (min-width: 1920px) {
         html, body { font-size: 72px !important; }
     }
-    body, html {
-        margin: 0;
-        padding: 0;
-    }
+   html, body {  margin:0; padding: 0; }
+   
+   
 </style>

@@ -1,6 +1,3 @@
-/**
- * Created by yongyuehuang on 2017/4/24.
- */
 import { bang1, bang2, bang3, bang4, bang5, bang6, bang7, bang8, bang9, bang10 } from './../../static/outImg'
 
 // 新歌列表
